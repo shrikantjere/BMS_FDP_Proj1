@@ -1,3 +1,5 @@
+# Program to check if a number is prime or not
+
 def is_prime(n: int) -> bool:
     if n <= 1:
         return False
